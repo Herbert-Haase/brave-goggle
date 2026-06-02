@@ -26,15 +26,15 @@ $discard,site=geekflare.com
 $discard,site=sourcedigit.com
 $discard,site=makeuseof.com
 
-$boost=3,site=github.com
-$boost=3,site=en.wikipedia.org
-$boost=3,site=geeksforgeeks.org
-$boost=3,site=cppreference.com
-$boost=3,site=hackingcpp.com
-$boost=3,site=fluentcpp.com
-$boost=3,site=cxx.rs
-$boost=3,site=modernescpp.com
-$boost=3,site=studyplan.dev
-$boost=3,site=rosettacode.org
-$boost=3,site=tldp.org
+$boost=1,site=github.com
+$boost=1,site=en.wikipedia.org
+$boost=1,site=geeksforgeeks.org
+$boost=1,site=cppreference.com
+$boost=1,site=hackingcpp.com
+$boost=1,site=fluentcpp.com
+$boost=1,site=cxx.rs
+$boost=1,site=modernescpp.com
+$boost=1,site=studyplan.dev
+$boost=1,site=rosettacode.org
+$boost=1,site=tldp.org
 
