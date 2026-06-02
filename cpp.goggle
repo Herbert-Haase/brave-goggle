@@ -2,7 +2,7 @@
 ! description: remove sites I don't need and add sites I want to see more of. See below.
 ! public: true
 ! author: loremipsum
-! avatar: #0
+! avatar: #000000
 
 $discard,site=dev.to
 $discard,site=medium.com
@@ -27,7 +27,7 @@ $discard,site=sourcedigit.com
 $discard,site=makeuseof.com
 
 $boost=3,site=github.com
-$boost=3,site=en.wikipedia.com
+$boost=3,site=en.wikipedia.org
 $boost=3,site=geeksforgeeks.org
 $boost=3,site=cppreference.com
 $boost=3,site=hackingcpp.com
