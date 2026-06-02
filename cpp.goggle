@@ -1,0 +1,40 @@
+! name: Mostly C++ programming
+! description: remove sites I don't need and add sites I want to see more of. See below.
+! public: true
+! author: loremipsum
+! avatar: #0
+
+$discard,site=dev.to
+$discard,site=medium.com
+$discard,site=tutorialspoint.com
+$discard,site=javatpoint.com
+$discard,site=programiz.com
+$discard,site=codegrepper.com
+$discard,site=educative.io
+$discard,site=pynative.com
+$discard,site=stackvidhya.com
+$discard,site=careerkarma.com
+$discard,site=zetcode.com
+$discard,site=techiedelight.com
+$discard,site=interviewkickstart.com
+$discard,site=answerbun.com
+$discard,site=learn.microsoft.com
+$discard,site=tecmint.com
+$discard,site=linoxide.com
+$discard,site=itsfoss.com
+$discard,site=geekflare.com
+$discard,site=sourcedigit.com
+$discard,site=makeuseof.com
+
+$boost=3,site=github.com
+$boost=3,site=en.wikipedia.com
+$boost=3,site=geeksforgeeks.org
+$boost=3,site=cppreference.com
+$boost=3,site=hackingcpp.com
+$boost=3,site=fluentcpp.com
+$boost=3,site=cxx.rs
+$boost=3,site=modernescpp.com
+$boost=3,site=studyplan.dev
+$boost=3,site=rosettacode.org
+$boost=3,site=tldp.org
+
