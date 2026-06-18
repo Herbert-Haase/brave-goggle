@@ -33,6 +33,7 @@ $discard,site=quora.com
 $discard,site=pinterest.com
 $discard,site=pinterest.com
 $discard,site=codechef.com
+$discard,site=codecademy.com
 $downrank=2,site=geeksforgeeks.org
 
 $boost=5,site=man7.org
