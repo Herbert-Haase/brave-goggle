@@ -35,6 +35,7 @@ $discard,site=pinterest.com
 $discard,site=codechef.com
 $discard,site=codecademy.com
 $downrank=2,site=geeksforgeeks.org
+$downrank=2,site=adobe.com
 
 $boost=5,site=man7.org
 $boost=5,site=archlinux.org
